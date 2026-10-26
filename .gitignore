@@ -1,0 +1,30 @@
+
+# Arquivos compilados Kotlin / Java
+*.class
+*.jar
+*.war
+*.ear
+build/
+out/
+
+# Gradle
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code: configurações pessoais
+.vscode/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
